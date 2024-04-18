@@ -15,11 +15,14 @@ This application generates a professional README.md with a table of contents fro
 
 ## Installation
 
-Clone the repository. Then run npm install from this folder to get all packages installed.
+Clone the repository. Then run npm install from readme-generator folder in terminal to get all packages installed.
+Make sure Node.js has been previously installed.
 
 ## Usage
 
-Use this application to generate a readme.md file. The generated file will be located in the output folder so as to not override this readme.
+Use this application to generate a readme.md file. 
+Open the readme-generator folder in terminal and run 'None index.js'
+The generated file will be located in the output folder so as to not override this readme.
 
 ## License
 
